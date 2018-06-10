@@ -1,0 +1,10 @@
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\bin\Debug\TheQuest.exe
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\bin\Debug\TheQuest.pdb
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.csprojResolveAssemblyReference.cache
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.csproj.CoreCompileInputs.cache
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.exe
+C:\Users\Microsuckft\Downloads\Ch 9.5 - Lab 2\TheQuest\obj\Debug\TheQuest.pdb
